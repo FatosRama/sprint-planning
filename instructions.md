@@ -22,7 +22,8 @@ Welcome to our Initial Sprint. The goal of this sprint is to customize a web app
 3. Choose **Board** view and name it "Sprint 1"
 4. Re-create all 9 user stories as **Issues** in your forked repo (copy the title AND description from the [reference board](https://github.com/orgs/dcadd26/projects/1))
 5. Add all issues to your Project board
-6. Create a **Milestone** called "Sprint 1" under Issues > Milestones, and assign all issues to it
+6. Switch to **Board** view: click the dropdown next to the view name and select **Board**, then group by **Status** — this gives you the classic Todo / In Progress / Done columns
+7. Create a **Milestone** called "Sprint 1" under Issues > Milestones, and assign all issues to it
 
 ### 3. Assign Scrum Roles
 
