@@ -4,38 +4,38 @@
 
 ## What Worked Well
 
-- Communication within the team was clear and consistent
-- All planned user stories were completed on time
-- Collaboration between frontend and backend developers was efficient
-- Dependencies were managed effectively without blocking progress
+- Clear communication and task assignment
+- Completed most planned user stories without blockers
+- Collaboration between frontend and backend developers was effective
+- Dependencies were tracked and managed properly
 
 ## What Needs Improvement
 
-- PR reviews took longer than expected at times
-- Some UI tweaks after removing sections caused minor regressions
-- Testing could have been more thorough on all pages before deployment
+- PR reviews caused minor delays
+- Footer and social media features were not completed
+- Testing coverage for all pages could be improved
 
 ## Action Items
 
 | Action Item                                      | Owner          | Due Date     |
 |-------------------------------------------------|----------------|-------------|
-| Set a 24h max turnaround for PR reviews         | Scrum Master   | Next sprint |
-| Create a checklist for UI regressions after changes | Frontend Team | Next sprint |
-| Implement automated page testing for key navigation | Developers    | Next sprint |
+| Set 24h max turnaround for PR reviews           | Scrum Master   | Next sprint |
+| Ensure footer updates and social media links are finalized | Frontend Team | Next sprint |
+| Increase automated testing coverage             | Developers     | Next sprint |
 
 ## Retrospective Summary Table
 
 | Worked Well                                           | Needs Improvement                                  | Next Steps                                                   |
 |-------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------|
-| Tasks were well defined                                | PR reviews caused delays                           | Scrum Master: enforce 24h max PR turnaround                 |
-| Dependencies were managed effectively                 | Minor UI regressions after section removal        | Frontend Team: use a UI regression checklist               |
-| Collaboration between frontend and backend efficient | Testing coverage could improve                     | Developers: implement automated page tests for navigation |
+| Tasks were well defined                                | PR reviews took longer than expected              | Scrum Master: enforce 24h PR turnaround                      |
+| Collaboration between frontend and backend efficient | Footer and social media not completed             | Frontend Team: finalize and test footer & social links       |
+| Dependencies were managed effectively                 | Testing coverage could improve                     | Developers: add automated tests for key pages               |
 
 ## Team Mood
 
 | Team Member       | Rating | Comment                                     |
 |------------------|--------|--------------------------------------------|
-| Shpëtim Panduri   | 5      | Smooth sprint, good communication          |
-| Fatos Rama        | 5      | All tasks completed, no blockers           |
-| Diellart Mulolli  | 5      | Requirements were clear, happy with results|
-| Bahrie Veseli     | 5      | Process went well, sprint goal achieved    |
+| Shpëtim Panduri   | 4      | Smooth sprint, minor delays on footer       |
+| Fatos Rama        | 4      | Most tasks done, some leftover items       |
+| Diellart Mulolli  | 5      | Requirements clear, happy with progress    |
+| Bahrie Veseli     | 5      | Process went well, confident for next sprint |
