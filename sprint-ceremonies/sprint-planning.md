@@ -15,7 +15,7 @@
 | Shpëtim Panduri       | 40             | Frontend / UI                 |
 | Fatos Rama        | 40             | Logic / integrations          |
 | Diellart Mulolli     | 0              | Defines requirements          |
-| Bahrie Veseli      | 0              | Facilitates process           |
+| Bahrie Veseli      | 40              | Facilitates process           |
 
 ## Selected User Stories
 
