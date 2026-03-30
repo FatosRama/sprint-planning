@@ -17,27 +17,29 @@
 | APP-5     | Link Google Maps to HQ                   | 2            | Done   | Map updated to McDonalds HQ coordinates |
 | APP-6     | Remove Blog & Online Shopping sections   | 3            | Done   | Unnecessary sections removed without UI issues |
 | APP-7     | Remove search functionality              | 2            | Done   | Search bar and logic removed |
-| APP-8     | Fix Copyright section                   | 1            | Done   | Footer text corrected and standardized |
-| APP-9     | Configure Social Media buttons           | 2            | Done   | Buttons linked and functioning properly |
+| APP-8     | Fix Copyright section                   | 1            | Not Done | Pending footer update |
+| APP-9     | Configure Social Media buttons           | 2            | Not Done | Pending button linking |
 
 ## Sprint Metrics
 
 | Metric                | Value |
 |-----------------------|-------|
 | Planned SP            | 18    |
-| Completed SP          | 18    |
-| Stories Completed     | 9     |
-| Stories Not Completed | 0     |
+| Completed SP          | 15    |
+| Stories Completed     | 7     |
+| Stories Not Completed | 2     |
 
-- [x] Sprint goal reached
+- [ ] Sprint goal reached
 
 ## Stakeholder Feedback
 
-- Product Owner approved all implemented features
-- Rebranding met expectations with consistent visual identity
-- Navigation improvements confirmed as functional and clear
-- No additional changes requested
+- Product Owner approved all completed features
+- Rebranding and navigation improvements met expectations
+- Requested to finalize footer and social media links next sprint
 
 ## Incomplete Work
 
-- None
+- APP-8: Fix Copyright section — pending updates to footer text
+- APP-9: Configure Social Media buttons — pending linking and testing
+
+---
