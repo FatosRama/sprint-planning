@@ -6,7 +6,6 @@
 
 - Clear communication and task assignment
 - Completed most planned user stories without blockers
-- Collaboration between frontend and backend developers was effective
 - Dependencies were tracked and managed properly
 
 ## What Needs Improvement
