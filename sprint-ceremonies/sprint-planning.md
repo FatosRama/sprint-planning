@@ -13,9 +13,9 @@
 | Team Member        | Available Hours | Notes                         |
 |-------------------|----------------|-------------------------------|
 | Shpëtim Panduri       | 40             | Frontend / UI                 |
-| Fatos Rama        | 40             | Logic / integrations          |
+| Bahrie Veseli       | 40             | Logic / integrations          |
 | Diellart Mulolli     | 0              | Defines requirements          |
-| Bahrie Veseli      | 40              | Facilitates process           |
+| Fatos Rama      | 40              | Facilitates process           |
 
 ## Selected User Stories
 
