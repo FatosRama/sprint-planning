@@ -10,7 +10,7 @@
 
 ## What Needs Improvement
 
-- PR reviews caused minor delays
+- PR abscence caused minor delays
 - Footer and social media features were not completed
 - Testing coverage for all pages could be improved
 
