@@ -1,49 +1,41 @@
 # Sprint Retrospective
 
-> Fill out this document at the **end** of the sprint, after the Sprint Review.
-
 ## Sprint #: 1
 
 ## What Worked Well
 
-<!-- List things that went well during this sprint -->
-
-- e.g. *Communication within the team was clear and consistent*
--
--
+- Communication within the team was clear and consistent
+- All planned user stories were completed on time
+- Collaboration between frontend and backend developers was efficient
+- Dependencies were managed effectively without blocking progress
 
 ## What Needs Improvement
 
-<!-- List things that could be improved -->
-
-- e.g. *PR reviews took too long, blocking other team members*
--
--
+- PR reviews took longer than expected at times
+- Some UI tweaks after removing sections caused minor regressions
+- Testing could have been more thorough on all pages before deployment
 
 ## Action Items
 
-> Concrete steps the team commits to for the next sprint.
-
-| Action Item | Owner | Due Date |
-|-------------|-------|----------|
-| e.g. *Set a 24h max turnaround for PR reviews* | *Scrum Master* | *Next sprint* |
-|             |       |          |
-|             |       |          |
+| Action Item                                      | Owner          | Due Date     |
+|-------------------------------------------------|----------------|-------------|
+| Set a 24h max turnaround for PR reviews         | Scrum Master   | Next sprint |
+| Create a checklist for UI regressions after changes | Frontend Team | Next sprint |
+| Implement automated page testing for key navigation | Developers    | Next sprint |
 
 ## Retrospective Summary Table
 
-| Worked Well | Needs Improvement | Next Steps |
-|-------------|-------------------|------------|
-| e.g. *Tasks were well defined* | e.g. *Reduce meeting time* | e.g. *Scrum Master: time-box meetings to 15 min* |
-|             |                   |            |
-|             |                   |            |
+| Worked Well                                           | Needs Improvement                                  | Next Steps                                                   |
+|-------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------|
+| Tasks were well defined                                | PR reviews caused delays                           | Scrum Master: enforce 24h max PR turnaround                 |
+| Dependencies were managed effectively                 | Minor UI regressions after section removal        | Frontend Team: use a UI regression checklist               |
+| Collaboration between frontend and backend efficient | Testing coverage could improve                     | Developers: implement automated page tests for navigation |
 
 ## Team Mood
 
-> How does the team feel about the sprint? (Rate 1-5, with 5 being great)
-
-| Team Member | Rating | Comment |
-|-------------|--------|---------|
-| e.g. *John* | *4* | *Good sprint, but felt rushed at the end* |
-|             |        |         |
-|             |        |         |
+| Team Member       | Rating | Comment                                     |
+|------------------|--------|--------------------------------------------|
+| Shpëtim Panduri   | 5      | Smooth sprint, good communication          |
+| Fatos Rama        | 5      | All tasks completed, no blockers           |
+| Diellart Mulolli  | 5      | Requirements were clear, happy with results|
+| Bahrie Veseli     | 5      | Process went well, sprint goal achieved    |
